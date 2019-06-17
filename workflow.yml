@@ -1,0 +1,3 @@
+reference_genome:
+  class: File
+  path: /mnt/data/input/dbsnp_138.b37.vcf.gz
